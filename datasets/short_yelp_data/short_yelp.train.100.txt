@@ -1,0 +1,100 @@
+1	the staff is always really friendly and willing to help .
+1	the food is delicious and inexpensive .
+0	it also does not have any particular flavor .
+1	great job !
+1	what a wonderful little pizza shop .
+1	great service and awesome pho ' .
+1	i highly recommend this company and the driver joe to future customers !
+0	long story short by almost 2:30 a shuttle comes to get us .
+0	disgusting .
+1	everything is good .
+1	go here with an appetite !
+0	avoid yellow cab like the plague .
+1	the service was great and they were very polite .
+1	and the hotel rooms are nice .
+0	do n't move in !
+1	but he absolutely saved my cat 's life .
+0	do not ever give this company your email .
+0	nothing was stellar .
+1	the service was really good and so was the pizza .
+1	the food was pretty good .
+1	the sauce is a little sweet and is great .
+1	my husband loves it too .
+1	the atmosphere is very warm and friendly and often with live music .
+0	i 've been there many times , and this is the case every .
+0	yet the same woman was there trying to convince me that it was fine .
+1	very good flavor .
+0	it was not worth the drive .
+0	probably about _num_ minutes to get the food .
+1	the best donuts i 've ever eaten , ever .
+1	awesome food .
+0	bottom line is poor excuses for terrible work .
+1	however the employees here are extremely sweet especially holly !
+1	and they actually run a cat rescue out of the front of the office .
+1	excellent and large selection of quality books .
+0	there are much better pizza joints around .
+1	i am a fan !
+0	what a waste of time !
+0	so , it 's a really racist place that i do not recommend .
+1	but it has the <unk> look to it .
+0	the hollandaise was tasteless and coffee tasted like dirt .
+1	everyone went way out of their way to make it a perfect day .
+0	it was totally disgusting and they took forever .
+1	it 's very authentic , and the family owners are great !
+1	i love this store .
+0	stylist have no idea what there doing or talking about .
+0	dont waste your time with this place .
+0	worst burger of my life .
+1	lots of good people !
+1	top notch company .
+1	the service is really friendly here .
+0	the petit filet mignon and the ny strip was pretty bland , lacking flavor .
+1	the sushi is consistent and excellent .
+1	he is so kind and gentle with my dog .
+1	they will fry fish as well .
+1	they have great customer service and friendly staff .
+1	good food !
+1	so happy i ended up here !
+0	rice was a tad dry .
+1	strongly recommend .
+0	could n't figure out who to get the keys from afterwards .
+0	i wo n't be going back , just because my personal taste .
+0	there was absolutely nothing wrong with my car and the way it was driving .
+0	over the years i have had only one poor experience .
+1	take that chipotle !
+0	i am allergic to diet soda .
+1	they have the best colors , city , history , most fans , etc .
+0	the school requests for feedback but does not take any action whatsoever .
+1	he was comprehensive and nice .
+1	_num_ people were all very happy .
+0	the reservation was for _num_ and _num_ of us got there first .
+0	not too thrilled with the value of a groupon from sports pub .
+1	it 's always been quick and easy .
+1	both were very very fresh and really hit the spot for starters .
+1	the food has been excellent every time we have visited .
+0	the girl put me on hold for _num_ minutes and forgot about me .
+1	i 'm defiantly a fan .
+0	why did it take _num_ minutes for our food to get there ?
+1	some of the best desserts and pastries here .
+0	the worst nail place ever .
+1	delicious !
+0	the food is lousy .
+1	we really recommend this place .
+0	very slow with the check .
+1	nice common room with breakfast .
+1	and oddly enough , the chicken wings are the best in town .
+0	i have not ate here since they took out the grilled stuffed nacho .
+1	i love their bagels and cream cheese and their bagel sandwiches .
+0	this was because the layers , esp .
+0	there was no bell to ring and i 've yelled out twice .
+0	i do n't remember our waitresses name .
+0	the service was horrible .
+1	i love this place .
+1	highly recommended .
+0	however , i will never step foot in there or any postino property again .
+1	fair prices and fast service .
+0	also , the barber is really slow .
+0	the food was just ok , but we were n't expecting much .
+1	$ _num_ for a calzone and a drink is a great price too .
+0	my husband ordered a burger which was $ _num_ and subpar .
+0	first , and last visit unfortunately .
