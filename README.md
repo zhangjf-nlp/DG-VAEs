@@ -1,6 +1,12 @@
 # DG-VAE
 
-This is the pytorch implementation of methods and experiments introduced in our paper *Improving Variational Autoencoders with Density Gap-based Regularization*.
+This is the pytorch implementation of methods and experiments introduced in our paper [Improving Variational Autoencoders with Density Gap-based Regularization](https://openreview.net/pdf?id=GjWDguPZRmr).
+
+<p>
+    <a href="https://openreview.net/pdf?id=GjWDguPZRmr">
+        <img src="collapse_and_hole_more_with_explain.png">
+    </a>
+</p>
 
 ## Acknowledgements
 
